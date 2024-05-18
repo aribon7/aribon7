@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\Jack\Desktop\mathweek\bianyi2k\源.cpp(34,13): error C2512: “Symbol”: 没有合适的默认构造函数可用
+C:\Users\Jack\Desktop\mathweek\bianyi2k\源.cpp(17,8): message : 参见“Symbol”的声明
+C:\Users\Jack\Desktop\mathweek\bianyi2k\源.cpp(76,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
